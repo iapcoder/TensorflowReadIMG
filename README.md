@@ -1,0 +1,2 @@
+# TensorflowReadIMG
+使用Tensorflow将图片文件读取为张量、方便神经网络训练
